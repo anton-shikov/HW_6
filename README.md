@@ -1,6 +1,6 @@
 
-# HW_6 GEO_seacrh interface. 
-A sall prorgam for executing GSEA algorithm on desirable GEO exmeriment and genes set
+# HW_6 GEO_search interface. 
+A small programm for executing GSEA algorithm on desirable GEO experiment and genes set
 
 ## Getting Started
 
