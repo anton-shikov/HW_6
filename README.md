@@ -21,7 +21,8 @@ To install this tool clone this repository to your PC.
 ## Running and using tool
 
 Using this tool is not complicted. Just run GUI.py file and put GEO_id in the first text label and genes list separated by space and after that click "Get p_value" button to get Kolmogorov-Smirnov test result:
- ![](https://github.com/anton-shikov/HW_6/blob/master/GUI_example.png?raw=true) 
+
+   ![](https://github.com/anton-shikov/HW_6/blob/master/GUI_example.png?raw=true)  
 
 
 ## Author
